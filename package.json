@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/AslanAV/frontend-project-44/issues"
   },
-  "homepage": "https://github.com/AslanAV/frontend-project-44#readme"
+  "homepage": "https://github.com/AslanAV/frontend-project-44#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
