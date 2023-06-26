@@ -1,0 +1,26 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "description": "First project in Frontend on Hexlet",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AslanAV/frontend-project-44.git"
+  },
+  "keywords": [
+    "npm",
+    "js",
+    "node",
+    "nodejs",
+    "CLI"
+  ],
+  "author": "Aslan Autlev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AslanAV/frontend-project-44/issues"
+  },
+  "homepage": "https://github.com/AslanAV/frontend-project-44#readme"
+}
