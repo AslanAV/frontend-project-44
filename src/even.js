@@ -14,7 +14,6 @@ const prepareData = () => {
   const answers = [];
 
   for (let i = 0; i < COUNT_GAME; i += 1) {
-
     const number = Math.floor(Math.random() * 100);
     questions.push(number);
 
@@ -26,7 +25,7 @@ const prepareData = () => {
 
 const rule = () => {
   console.log('Answer "yes" if the number is even, otherwise answer "no".');
-}
+};
 
 const loop = ([questions, answers]) => {
   for (let i = 0; i < COUNT_GAME; i += 1) {
@@ -34,7 +33,7 @@ const loop = ([questions, answers]) => {
     const correctAnswer = answers[i];
     console.log(`Question: ${number}`);
 
-    const playerAnswer = readlineSync.question("Your answer: ");
+    const playerAnswer = readlineSync.question('Your answer: ');
 
     if (answers[i] !== playerAnswer) {
       console.log(`${playerAnswer} is wrong answer ;(. Correct answer was ${correctAnswer}`);
@@ -47,7 +46,7 @@ const loop = ([questions, answers]) => {
 
 const endGame = (name) => {
   console.log(`Congratulations, ${name}!`);
-}
+};
 
 const game = () => {
   const namePlayer = greeting();
