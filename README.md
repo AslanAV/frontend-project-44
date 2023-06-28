@@ -15,6 +15,9 @@
 ### Brain-gcd game
 [![asciicast](https://asciinema.org/a/tqCtpGp6UZw4ScbI6uxAWAzfB.svg)](https://asciinema.org/a/tqCtpGp6UZw4ScbI6uxAWAzfB)
 
+### Brain-progression game
+[![asciicast](https://asciinema.org/a/jEmcF8Pzv9m0UvpbBqslRR1rz.svg)](https://asciinema.org/a/jEmcF8Pzv9m0UvpbBqslRR1rz)
+
 ## Setup
 
 ```bash
