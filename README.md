@@ -12,6 +12,9 @@
 ### Brain-calculator game
 [![asciicast](https://asciinema.org/a/UoENL2NIr2LBdgGaarv3tGEwQ.svg)](https://asciinema.org/a/UoENL2NIr2LBdgGaarv3tGEwQ)
 
+### Brain-gcd game
+[![asciicast](https://asciinema.org/a/tqCtpGp6UZw4ScbI6uxAWAzfB.svg)](https://asciinema.org/a/tqCtpGp6UZw4ScbI6uxAWAzfB)
+
 ## Setup
 
 ```bash
