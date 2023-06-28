@@ -9,6 +9,8 @@
 ### Brain-even game
 [![asciicast](https://asciinema.org/a/zxAVnpUQF56PE9PEH9fc7chyK.svg)](https://asciinema.org/a/zxAVnpUQF56PE9PEH9fc7chyK)
 
+### Brain-calculator game
+[![asciicast](https://asciinema.org/a/UoENL2NIr2LBdgGaarv3tGEwQ.svg)](https://asciinema.org/a/UoENL2NIr2LBdgGaarv3tGEwQ)
 
 ## Setup
 
